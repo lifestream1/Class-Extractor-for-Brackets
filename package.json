@@ -1,0 +1,17 @@
+{
+    "name": "class-extractor-for-brackets",
+    "title": "Class Extractor",
+    "description": "This extension is used to extract classes from an HTML-document.",
+    "version": "0.1.0",
+    "engines": {
+        "brackets": ">=1.14.2"
+    },
+    "license": "MIT",
+    "i18n": ["en", "ru"],
+    "package-i18n": {
+        "ru": {
+            "description": "Это расширение используется для извлечения классов из HTML-документа."
+        }
+    }
+}
+

@@ -11,5 +11,5 @@ then go to CSS file and press Ctrl-V.
 Все классы в выделенном фрагменте кода будут добавлены в буфер обмена,
 затем перейдите в файл CSS и нажмите Ctrl-V.
 
-[![Watch the video](https://img.youtube.com/vi/xI5fVP4ew-U/maxresdefault.jpg)](https://youtu.be/xI5fVP4ew-U)
+![Class_Extractor](https://user-images.githubusercontent.com/66645834/119371369-072b8480-bcbf-11eb-99f7-a5bf6b94ccab.gif)
 

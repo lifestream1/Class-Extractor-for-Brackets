@@ -10,3 +10,5 @@ then go to CSS file and press Ctrl-V.
 Чтобы извлечь классы, выберите HTML-код и нажмите Ctrl-Alt-D.
 Все классы в выделенном фрагменте кода будут добавлены в буфер обмена,
 затем перейдите в файл CSS и нажмите Ctrl-V.
+
+[![Watch the video](https://img.youtube.com/vi/xI5fVP4ew-U/maxresdefault.jpg)](https://youtu.be/xI5fVP4ew-U)

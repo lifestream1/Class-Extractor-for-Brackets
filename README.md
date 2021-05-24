@@ -13,4 +13,3 @@ then go to CSS file and press Ctrl-V.
 
 [![Watch the video](https://img.youtube.com/vi/xI5fVP4ew-U/maxresdefault.jpg)](https://youtu.be/xI5fVP4ew-U)
 
-[<img src="https://img.youtube.com/vi/xI5fVP4ew-U/maxresdefault.jpg" width="50%">](https://youtu.be/xI5fVP4ew-U)

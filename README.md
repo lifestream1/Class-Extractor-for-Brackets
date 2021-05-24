@@ -12,3 +12,4 @@ then go to CSS file and press Ctrl-V.
 затем перейдите в файл CSS и нажмите Ctrl-V.
 
 [![Watch the video](https://img.youtube.com/vi/xI5fVP4ew-U/maxresdefault.jpg)](https://youtu.be/xI5fVP4ew-U)
+https://youtu.be/xI5fVP4ew-U

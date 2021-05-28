@@ -24,9 +24,9 @@ define(function (require, exports, module) {
 function getSelectText() {
 
         if (window.getSelection) {
-            var range = window.getSelection ();
+            var range = window.getSelection ();       
+            extractClasses(range);
         }
-        extractClasses(range);
 }
 
 
@@ -44,9 +44,8 @@ function extractClasses(range) {
 
             if(newArray.length > 0){
                 newArray = newArray.toString().split(/,|\s/);
-            }
-
                 deleteRepeatClass(newArray);
+            }
         }
 
 function deleteRepeatClass(newArray) {
